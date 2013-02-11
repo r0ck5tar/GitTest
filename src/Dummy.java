@@ -9,6 +9,8 @@ public class Dummy {
 		System.out.println("Looks like I've added new stuff here");
 		
 		//Just one more slight change right here.
+		
+		System.out.println("This change should only affect the development branch");
 	}
 
 }
