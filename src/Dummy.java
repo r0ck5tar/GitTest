@@ -17,5 +17,7 @@ public class Dummy {
 		//pour des fonctionnalités tactiles
 	}
 	
+	//now ready for verion 0.2!
+	
 
 }
