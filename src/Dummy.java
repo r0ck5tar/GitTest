@@ -18,4 +18,6 @@ public class Dummy {
 	
 	
 		//hakim changed something here
+	
+		//changed something in Eclipse to test Egit
 }
