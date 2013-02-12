@@ -12,5 +12,10 @@ public class Dummy {
 		
 		//I did something here
 	}
+	
+	public static tactile(){
+		//pour des fonctionnalités tactiles
+	}
+	
 
 }
